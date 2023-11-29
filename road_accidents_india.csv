@@ -1,0 +1,1001 @@
+Date,State,City,Fatalities,Injuries
+2023-01-01,Gujarat,Ahmedabad,3,11
+2023-01-01,Maharashtra,Chennai,7,7
+2023-01-01,Tamil Nadu,Lucknow,8,10
+2023-01-02,Karnataka,Lucknow,6,21
+2023-01-02,Maharashtra,Bangalore,1,7
+2023-01-02,Karnataka,Bangalore,4,6
+2023-01-03,Uttar Pradesh,Mumbai,10,30
+2023-01-03,Maharashtra,Bangalore,3,7
+2023-01-03,Maharashtra,Bangalore,7,18
+2023-01-04,Uttar Pradesh,Chennai,7,23
+2023-01-04,Karnataka,Bangalore,4,26
+2023-01-05,Uttar Pradesh,Lucknow,4,27
+2023-01-05,Gujarat,Bangalore,3,27
+2023-01-05,Tamil Nadu,Mumbai,2,22
+2023-01-06,Karnataka,Ahmedabad,4,14
+2023-01-06,Uttar Pradesh,Bangalore,1,7
+2023-01-06,Gujarat,Lucknow,7,16
+2023-01-07,Maharashtra,Mumbai,9,27
+2023-01-07,Gujarat,Chennai,3,6
+2023-01-07,Karnataka,Mumbai,4,27
+2023-01-08,Tamil Nadu,Lucknow,6,16
+2023-01-08,Uttar Pradesh,Bangalore,3,28
+2023-01-09,Maharashtra,Ahmedabad,3,28
+2023-01-09,Uttar Pradesh,Bangalore,1,17
+2023-01-09,Karnataka,Ahmedabad,8,6
+2023-01-10,Gujarat,Ahmedabad,6,29
+2023-01-10,Uttar Pradesh,Lucknow,3,19
+2023-01-10,Tamil Nadu,Lucknow,6,19
+2023-01-11,Tamil Nadu,Ahmedabad,5,20
+2023-01-11,Karnataka,Bangalore,1,28
+2023-01-11,Tamil Nadu,Chennai,9,29
+2023-01-12,Tamil Nadu,Chennai,7,27
+2023-01-12,Maharashtra,Ahmedabad,3,12
+2023-01-13,Gujarat,Mumbai,7,24
+2023-01-13,Gujarat,Bangalore,7,30
+2023-01-13,Tamil Nadu,Bangalore,9,11
+2023-01-14,Gujarat,Ahmedabad,6,16
+2023-01-14,Karnataka,Ahmedabad,9,10
+2023-01-14,Tamil Nadu,Lucknow,8,14
+2023-01-15,Tamil Nadu,Bangalore,5,13
+2023-01-15,Tamil Nadu,Bangalore,10,26
+2023-01-15,Karnataka,Ahmedabad,9,18
+2023-01-16,Maharashtra,Ahmedabad,5,7
+2023-01-16,Tamil Nadu,Lucknow,7,14
+2023-01-17,Karnataka,Lucknow,7,21
+2023-01-17,Gujarat,Bangalore,6,17
+2023-01-17,Uttar Pradesh,Mumbai,3,28
+2023-01-18,Uttar Pradesh,Lucknow,6,22
+2023-01-18,Karnataka,Lucknow,6,19
+2023-01-18,Gujarat,Ahmedabad,9,21
+2023-01-19,Karnataka,Lucknow,6,5
+2023-01-19,Karnataka,Lucknow,8,21
+2023-01-19,Karnataka,Mumbai,2,24
+2023-01-20,Tamil Nadu,Bangalore,4,8
+2023-01-20,Tamil Nadu,Chennai,7,12
+2023-01-21,Uttar Pradesh,Bangalore,2,10
+2023-01-21,Gujarat,Chennai,3,16
+2023-01-21,Karnataka,Bangalore,6,10
+2023-01-22,Tamil Nadu,Mumbai,2,23
+2023-01-22,Gujarat,Bangalore,7,19
+2023-01-22,Maharashtra,Ahmedabad,3,13
+2023-01-23,Uttar Pradesh,Lucknow,5,28
+2023-01-23,Maharashtra,Lucknow,7,25
+2023-01-23,Karnataka,Lucknow,6,7
+2023-01-24,Karnataka,Bangalore,2,17
+2023-01-24,Gujarat,Lucknow,6,11
+2023-01-25,Karnataka,Mumbai,3,12
+2023-01-25,Maharashtra,Bangalore,7,7
+2023-01-25,Uttar Pradesh,Bangalore,9,23
+2023-01-26,Gujarat,Mumbai,10,11
+2023-01-26,Uttar Pradesh,Lucknow,6,22
+2023-01-26,Uttar Pradesh,Mumbai,3,25
+2023-01-27,Maharashtra,Ahmedabad,7,5
+2023-01-27,Tamil Nadu,Lucknow,2,25
+2023-01-27,Uttar Pradesh,Ahmedabad,2,13
+2023-01-28,Gujarat,Lucknow,2,29
+2023-01-28,Maharashtra,Mumbai,4,24
+2023-01-29,Maharashtra,Lucknow,2,25
+2023-01-29,Maharashtra,Mumbai,8,6
+2023-01-29,Karnataka,Bangalore,1,6
+2023-01-30,Karnataka,Chennai,7,24
+2023-01-30,Tamil Nadu,Lucknow,2,25
+2023-01-30,Tamil Nadu,Ahmedabad,3,16
+2023-01-31,Tamil Nadu,Ahmedabad,10,26
+2023-01-31,Maharashtra,Mumbai,7,6
+2023-01-31,Maharashtra,Ahmedabad,6,11
+2023-02-01,Tamil Nadu,Bangalore,4,24
+2023-02-01,Karnataka,Chennai,9,8
+2023-02-02,Karnataka,Chennai,8,7
+2023-02-02,Gujarat,Bangalore,7,14
+2023-02-02,Uttar Pradesh,Ahmedabad,4,18
+2023-02-03,Karnataka,Bangalore,4,7
+2023-02-03,Gujarat,Ahmedabad,8,16
+2023-02-03,Uttar Pradesh,Lucknow,10,23
+2023-02-04,Uttar Pradesh,Chennai,1,12
+2023-02-04,Gujarat,Lucknow,3,23
+2023-02-04,Maharashtra,Ahmedabad,4,16
+2023-02-05,Uttar Pradesh,Mumbai,4,24
+2023-02-05,Maharashtra,Mumbai,3,8
+2023-02-06,Maharashtra,Lucknow,2,24
+2023-02-06,Gujarat,Lucknow,5,28
+2023-02-06,Uttar Pradesh,Ahmedabad,5,16
+2023-02-07,Uttar Pradesh,Ahmedabad,6,25
+2023-02-07,Tamil Nadu,Chennai,2,6
+2023-02-07,Maharashtra,Lucknow,6,17
+2023-02-08,Karnataka,Ahmedabad,1,9
+2023-02-08,Uttar Pradesh,Lucknow,7,28
+2023-02-08,Uttar Pradesh,Chennai,3,14
+2023-02-09,Gujarat,Bangalore,4,10
+2023-02-09,Karnataka,Bangalore,7,10
+2023-02-10,Gujarat,Bangalore,3,28
+2023-02-10,Karnataka,Ahmedabad,7,22
+2023-02-10,Maharashtra,Bangalore,7,30
+2023-02-11,Tamil Nadu,Chennai,8,10
+2023-02-11,Maharashtra,Chennai,6,10
+2023-02-11,Maharashtra,Mumbai,4,30
+2023-02-12,Maharashtra,Bangalore,9,8
+2023-02-12,Gujarat,Chennai,5,30
+2023-02-12,Gujarat,Ahmedabad,2,8
+2023-02-13,Gujarat,Ahmedabad,9,6
+2023-02-13,Maharashtra,Lucknow,5,6
+2023-02-14,Karnataka,Mumbai,6,5
+2023-02-14,Gujarat,Mumbai,10,25
+2023-02-14,Tamil Nadu,Mumbai,4,16
+2023-02-15,Maharashtra,Lucknow,6,28
+2023-02-15,Karnataka,Bangalore,2,16
+2023-02-15,Gujarat,Bangalore,1,25
+2023-02-16,Tamil Nadu,Ahmedabad,9,27
+2023-02-16,Maharashtra,Ahmedabad,6,7
+2023-02-17,Uttar Pradesh,Mumbai,10,23
+2023-02-17,Tamil Nadu,Chennai,5,8
+2023-02-17,Tamil Nadu,Chennai,1,18
+2023-02-18,Uttar Pradesh,Bangalore,1,27
+2023-02-18,Uttar Pradesh,Mumbai,4,21
+2023-02-18,Gujarat,Ahmedabad,2,8
+2023-02-19,Tamil Nadu,Chennai,1,22
+2023-02-19,Maharashtra,Lucknow,5,7
+2023-02-19,Tamil Nadu,Bangalore,3,9
+2023-02-20,Maharashtra,Ahmedabad,10,7
+2023-02-20,Uttar Pradesh,Chennai,5,6
+2023-02-21,Maharashtra,Ahmedabad,3,16
+2023-02-21,Uttar Pradesh,Lucknow,7,22
+2023-02-21,Karnataka,Ahmedabad,2,17
+2023-02-22,Tamil Nadu,Chennai,6,28
+2023-02-22,Gujarat,Lucknow,9,16
+2023-02-22,Maharashtra,Chennai,9,16
+2023-02-23,Maharashtra,Chennai,6,21
+2023-02-23,Uttar Pradesh,Chennai,10,20
+2023-02-23,Maharashtra,Chennai,3,5
+2023-02-24,Uttar Pradesh,Mumbai,3,16
+2023-02-24,Gujarat,Lucknow,8,30
+2023-02-25,Uttar Pradesh,Bangalore,4,19
+2023-02-25,Uttar Pradesh,Ahmedabad,7,5
+2023-02-25,Gujarat,Ahmedabad,7,11
+2023-02-26,Gujarat,Lucknow,4,9
+2023-02-26,Maharashtra,Lucknow,8,10
+2023-02-26,Tamil Nadu,Bangalore,5,21
+2023-02-27,Maharashtra,Chennai,9,27
+2023-02-27,Karnataka,Mumbai,1,5
+2023-02-27,Tamil Nadu,Lucknow,9,24
+2023-02-28,Karnataka,Mumbai,10,8
+2023-02-28,Tamil Nadu,Chennai,4,25
+2023-03-01,Karnataka,Chennai,2,18
+2023-03-01,Tamil Nadu,Chennai,3,25
+2023-03-01,Karnataka,Lucknow,6,9
+2023-03-02,Uttar Pradesh,Ahmedabad,2,8
+2023-03-02,Tamil Nadu,Bangalore,5,22
+2023-03-02,Karnataka,Lucknow,1,18
+2023-03-03,Karnataka,Mumbai,1,14
+2023-03-03,Karnataka,Lucknow,2,27
+2023-03-03,Tamil Nadu,Lucknow,6,7
+2023-03-04,Uttar Pradesh,Lucknow,7,18
+2023-03-04,Maharashtra,Bangalore,1,29
+2023-03-05,Karnataka,Ahmedabad,2,14
+2023-03-05,Gujarat,Lucknow,5,15
+2023-03-05,Karnataka,Chennai,10,21
+2023-03-06,Karnataka,Mumbai,2,9
+2023-03-06,Maharashtra,Bangalore,5,10
+2023-03-06,Maharashtra,Bangalore,3,25
+2023-03-07,Uttar Pradesh,Mumbai,1,5
+2023-03-07,Tamil Nadu,Mumbai,4,18
+2023-03-07,Uttar Pradesh,Lucknow,4,19
+2023-03-08,Gujarat,Lucknow,6,30
+2023-03-08,Tamil Nadu,Bangalore,6,24
+2023-03-09,Gujarat,Bangalore,9,11
+2023-03-09,Uttar Pradesh,Mumbai,2,29
+2023-03-09,Karnataka,Ahmedabad,2,5
+2023-03-10,Maharashtra,Chennai,2,16
+2023-03-10,Tamil Nadu,Lucknow,6,12
+2023-03-10,Gujarat,Mumbai,5,12
+2023-03-11,Karnataka,Chennai,1,8
+2023-03-11,Gujarat,Ahmedabad,8,17
+2023-03-11,Uttar Pradesh,Bangalore,3,19
+2023-03-12,Tamil Nadu,Chennai,4,20
+2023-03-12,Maharashtra,Mumbai,9,13
+2023-03-13,Gujarat,Lucknow,2,16
+2023-03-13,Karnataka,Bangalore,2,25
+2023-03-13,Uttar Pradesh,Chennai,4,23
+2023-03-14,Maharashtra,Lucknow,7,18
+2023-03-14,Gujarat,Lucknow,3,20
+2023-03-14,Karnataka,Ahmedabad,2,12
+2023-03-15,Uttar Pradesh,Lucknow,9,29
+2023-03-15,Karnataka,Chennai,7,8
+2023-03-15,Karnataka,Chennai,6,5
+2023-03-16,Gujarat,Bangalore,6,14
+2023-03-16,Maharashtra,Mumbai,3,11
+2023-03-17,Gujarat,Lucknow,5,5
+2023-03-17,Karnataka,Bangalore,7,16
+2023-03-17,Karnataka,Mumbai,2,11
+2023-03-18,Maharashtra,Lucknow,4,30
+2023-03-18,Karnataka,Ahmedabad,6,19
+2023-03-18,Gujarat,Chennai,2,5
+2023-03-19,Uttar Pradesh,Bangalore,1,16
+2023-03-19,Tamil Nadu,Ahmedabad,3,21
+2023-03-19,Gujarat,Bangalore,8,6
+2023-03-20,Gujarat,Ahmedabad,1,5
+2023-03-20,Tamil Nadu,Chennai,4,22
+2023-03-21,Uttar Pradesh,Chennai,6,11
+2023-03-21,Tamil Nadu,Ahmedabad,10,26
+2023-03-21,Karnataka,Lucknow,2,19
+2023-03-22,Tamil Nadu,Bangalore,5,6
+2023-03-22,Karnataka,Mumbai,7,27
+2023-03-22,Karnataka,Ahmedabad,2,21
+2023-03-23,Uttar Pradesh,Chennai,2,20
+2023-03-23,Gujarat,Mumbai,7,12
+2023-03-23,Tamil Nadu,Mumbai,7,27
+2023-03-24,Uttar Pradesh,Chennai,6,12
+2023-03-24,Uttar Pradesh,Lucknow,1,25
+2023-03-25,Gujarat,Ahmedabad,1,28
+2023-03-25,Gujarat,Ahmedabad,10,24
+2023-03-25,Gujarat,Bangalore,3,5
+2023-03-26,Karnataka,Chennai,10,26
+2023-03-26,Maharashtra,Ahmedabad,8,18
+2023-03-26,Maharashtra,Lucknow,5,9
+2023-03-27,Uttar Pradesh,Mumbai,5,16
+2023-03-27,Karnataka,Bangalore,1,18
+2023-03-27,Maharashtra,Mumbai,2,10
+2023-03-28,Uttar Pradesh,Ahmedabad,4,14
+2023-03-28,Uttar Pradesh,Lucknow,7,14
+2023-03-29,Uttar Pradesh,Ahmedabad,2,18
+2023-03-29,Tamil Nadu,Ahmedabad,6,29
+2023-03-29,Maharashtra,Lucknow,5,9
+2023-03-30,Uttar Pradesh,Mumbai,4,27
+2023-03-30,Gujarat,Mumbai,2,19
+2023-03-30,Karnataka,Mumbai,7,10
+2023-03-31,Gujarat,Lucknow,9,10
+2023-03-31,Maharashtra,Lucknow,3,25
+2023-03-31,Karnataka,Lucknow,10,16
+2023-04-01,Karnataka,Bangalore,8,30
+2023-04-01,Karnataka,Ahmedabad,2,30
+2023-04-02,Uttar Pradesh,Ahmedabad,6,18
+2023-04-02,Karnataka,Lucknow,1,5
+2023-04-02,Uttar Pradesh,Lucknow,4,7
+2023-04-03,Maharashtra,Mumbai,8,11
+2023-04-03,Karnataka,Mumbai,1,24
+2023-04-03,Tamil Nadu,Lucknow,5,16
+2023-04-04,Karnataka,Chennai,8,29
+2023-04-04,Maharashtra,Mumbai,10,8
+2023-04-05,Uttar Pradesh,Ahmedabad,5,12
+2023-04-05,Uttar Pradesh,Ahmedabad,9,22
+2023-04-05,Gujarat,Ahmedabad,4,8
+2023-04-06,Karnataka,Chennai,10,30
+2023-04-06,Tamil Nadu,Ahmedabad,2,14
+2023-04-06,Uttar Pradesh,Chennai,9,22
+2023-04-07,Uttar Pradesh,Lucknow,8,28
+2023-04-07,Karnataka,Bangalore,7,25
+2023-04-07,Maharashtra,Ahmedabad,3,30
+2023-04-08,Uttar Pradesh,Bangalore,1,5
+2023-04-08,Tamil Nadu,Lucknow,2,7
+2023-04-09,Maharashtra,Bangalore,1,16
+2023-04-09,Gujarat,Ahmedabad,9,10
+2023-04-09,Gujarat,Chennai,5,12
+2023-04-10,Karnataka,Ahmedabad,5,19
+2023-04-10,Maharashtra,Lucknow,9,25
+2023-04-10,Maharashtra,Chennai,8,27
+2023-04-11,Karnataka,Mumbai,10,23
+2023-04-11,Karnataka,Bangalore,9,18
+2023-04-11,Gujarat,Mumbai,9,21
+2023-04-12,Karnataka,Lucknow,7,5
+2023-04-12,Karnataka,Ahmedabad,5,8
+2023-04-13,Gujarat,Mumbai,10,25
+2023-04-13,Uttar Pradesh,Chennai,2,21
+2023-04-13,Uttar Pradesh,Bangalore,9,14
+2023-04-14,Gujarat,Lucknow,7,24
+2023-04-14,Maharashtra,Ahmedabad,1,27
+2023-04-14,Gujarat,Lucknow,8,13
+2023-04-15,Uttar Pradesh,Chennai,1,26
+2023-04-15,Karnataka,Bangalore,1,19
+2023-04-15,Karnataka,Bangalore,4,14
+2023-04-16,Maharashtra,Bangalore,1,27
+2023-04-16,Gujarat,Mumbai,2,23
+2023-04-17,Uttar Pradesh,Ahmedabad,7,29
+2023-04-17,Maharashtra,Lucknow,10,20
+2023-04-17,Maharashtra,Bangalore,6,8
+2023-04-18,Gujarat,Ahmedabad,4,6
+2023-04-18,Tamil Nadu,Bangalore,9,19
+2023-04-18,Tamil Nadu,Lucknow,5,22
+2023-04-19,Tamil Nadu,Ahmedabad,4,30
+2023-04-19,Karnataka,Lucknow,10,16
+2023-04-19,Uttar Pradesh,Mumbai,1,23
+2023-04-20,Gujarat,Bangalore,5,24
+2023-04-20,Maharashtra,Lucknow,2,12
+2023-04-21,Maharashtra,Lucknow,5,30
+2023-04-21,Gujarat,Chennai,8,26
+2023-04-21,Tamil Nadu,Lucknow,8,5
+2023-04-22,Karnataka,Chennai,3,20
+2023-04-22,Gujarat,Ahmedabad,7,8
+2023-04-22,Tamil Nadu,Lucknow,7,6
+2023-04-23,Tamil Nadu,Mumbai,6,28
+2023-04-23,Maharashtra,Ahmedabad,1,25
+2023-04-23,Uttar Pradesh,Ahmedabad,9,27
+2023-04-24,Gujarat,Ahmedabad,5,22
+2023-04-24,Karnataka,Mumbai,9,26
+2023-04-25,Karnataka,Chennai,6,16
+2023-04-25,Karnataka,Chennai,5,21
+2023-04-25,Uttar Pradesh,Ahmedabad,3,30
+2023-04-26,Karnataka,Lucknow,1,20
+2023-04-26,Gujarat,Chennai,1,22
+2023-04-26,Uttar Pradesh,Lucknow,9,26
+2023-04-27,Tamil Nadu,Mumbai,10,14
+2023-04-27,Tamil Nadu,Mumbai,8,22
+2023-04-27,Maharashtra,Bangalore,7,6
+2023-04-28,Karnataka,Lucknow,6,12
+2023-04-28,Gujarat,Ahmedabad,2,9
+2023-04-29,Maharashtra,Mumbai,3,29
+2023-04-29,Maharashtra,Mumbai,7,22
+2023-04-29,Tamil Nadu,Bangalore,5,18
+2023-04-30,Gujarat,Ahmedabad,6,29
+2023-04-30,Tamil Nadu,Chennai,6,10
+2023-04-30,Karnataka,Bangalore,2,12
+2023-05-01,Maharashtra,Ahmedabad,8,6
+2023-05-01,Karnataka,Bangalore,8,28
+2023-05-01,Gujarat,Bangalore,6,11
+2023-05-02,Tamil Nadu,Lucknow,2,14
+2023-05-02,Maharashtra,Ahmedabad,4,30
+2023-05-03,Tamil Nadu,Ahmedabad,7,12
+2023-05-03,Tamil Nadu,Ahmedabad,8,23
+2023-05-03,Uttar Pradesh,Bangalore,7,12
+2023-05-04,Uttar Pradesh,Ahmedabad,9,7
+2023-05-04,Tamil Nadu,Ahmedabad,4,9
+2023-05-04,Tamil Nadu,Ahmedabad,4,25
+2023-05-05,Uttar Pradesh,Ahmedabad,10,12
+2023-05-05,Tamil Nadu,Lucknow,9,25
+2023-05-05,Maharashtra,Chennai,8,15
+2023-05-06,Gujarat,Chennai,1,30
+2023-05-06,Karnataka,Ahmedabad,7,11
+2023-05-07,Tamil Nadu,Lucknow,7,21
+2023-05-07,Tamil Nadu,Lucknow,2,19
+2023-05-07,Maharashtra,Chennai,2,18
+2023-05-08,Tamil Nadu,Lucknow,8,30
+2023-05-08,Maharashtra,Chennai,10,8
+2023-05-08,Uttar Pradesh,Chennai,8,22
+2023-05-09,Karnataka,Chennai,3,29
+2023-05-09,Tamil Nadu,Bangalore,10,16
+2023-05-09,Karnataka,Bangalore,8,24
+2023-05-10,Karnataka,Chennai,3,26
+2023-05-10,Karnataka,Mumbai,9,24
+2023-05-11,Uttar Pradesh,Bangalore,2,30
+2023-05-11,Karnataka,Mumbai,4,7
+2023-05-11,Maharashtra,Ahmedabad,1,24
+2023-05-12,Tamil Nadu,Mumbai,3,6
+2023-05-12,Gujarat,Chennai,3,17
+2023-05-12,Gujarat,Ahmedabad,7,25
+2023-05-13,Uttar Pradesh,Bangalore,3,20
+2023-05-13,Gujarat,Chennai,3,12
+2023-05-13,Maharashtra,Lucknow,10,5
+2023-05-14,Maharashtra,Chennai,3,18
+2023-05-14,Maharashtra,Chennai,7,30
+2023-05-15,Maharashtra,Mumbai,5,8
+2023-05-15,Maharashtra,Bangalore,4,13
+2023-05-15,Karnataka,Chennai,5,22
+2023-05-16,Karnataka,Bangalore,7,21
+2023-05-16,Gujarat,Chennai,8,29
+2023-05-16,Karnataka,Mumbai,1,26
+2023-05-17,Maharashtra,Chennai,3,21
+2023-05-17,Tamil Nadu,Ahmedabad,5,30
+2023-05-18,Maharashtra,Bangalore,6,18
+2023-05-18,Maharashtra,Ahmedabad,10,9
+2023-05-18,Karnataka,Chennai,6,20
+2023-05-19,Maharashtra,Mumbai,5,30
+2023-05-19,Gujarat,Ahmedabad,8,30
+2023-05-19,Uttar Pradesh,Chennai,3,27
+2023-05-20,Gujarat,Lucknow,5,20
+2023-05-20,Gujarat,Bangalore,8,29
+2023-05-20,Uttar Pradesh,Mumbai,10,29
+2023-05-21,Gujarat,Chennai,3,10
+2023-05-21,Maharashtra,Ahmedabad,10,14
+2023-05-22,Maharashtra,Mumbai,2,15
+2023-05-22,Tamil Nadu,Lucknow,6,25
+2023-05-22,Tamil Nadu,Bangalore,2,19
+2023-05-23,Uttar Pradesh,Lucknow,6,19
+2023-05-23,Maharashtra,Lucknow,3,12
+2023-05-23,Karnataka,Chennai,1,20
+2023-05-24,Gujarat,Mumbai,3,29
+2023-05-24,Tamil Nadu,Mumbai,5,29
+2023-05-24,Gujarat,Bangalore,3,24
+2023-05-25,Uttar Pradesh,Chennai,3,26
+2023-05-25,Uttar Pradesh,Chennai,7,13
+2023-05-26,Tamil Nadu,Mumbai,6,22
+2023-05-26,Gujarat,Lucknow,3,17
+2023-05-26,Maharashtra,Lucknow,6,29
+2023-05-27,Tamil Nadu,Ahmedabad,9,14
+2023-05-27,Gujarat,Bangalore,7,22
+2023-05-27,Uttar Pradesh,Chennai,8,16
+2023-05-28,Gujarat,Mumbai,9,17
+2023-05-28,Gujarat,Mumbai,10,24
+2023-05-28,Tamil Nadu,Ahmedabad,7,15
+2023-05-29,Uttar Pradesh,Mumbai,10,9
+2023-05-29,Uttar Pradesh,Chennai,7,11
+2023-05-30,Tamil Nadu,Bangalore,2,21
+2023-05-30,Tamil Nadu,Mumbai,3,11
+2023-05-30,Gujarat,Ahmedabad,9,26
+2023-05-31,Gujarat,Bangalore,6,23
+2023-05-31,Gujarat,Lucknow,3,28
+2023-05-31,Tamil Nadu,Ahmedabad,8,6
+2023-06-01,Maharashtra,Ahmedabad,3,16
+2023-06-01,Gujarat,Mumbai,8,11
+2023-06-01,Maharashtra,Mumbai,2,10
+2023-06-02,Karnataka,Bangalore,3,21
+2023-06-02,Gujarat,Lucknow,6,15
+2023-06-03,Gujarat,Lucknow,2,18
+2023-06-03,Karnataka,Bangalore,2,24
+2023-06-03,Maharashtra,Lucknow,4,29
+2023-06-04,Uttar Pradesh,Bangalore,5,25
+2023-06-04,Uttar Pradesh,Ahmedabad,4,7
+2023-06-04,Tamil Nadu,Chennai,5,21
+2023-06-05,Maharashtra,Bangalore,1,10
+2023-06-05,Uttar Pradesh,Ahmedabad,1,26
+2023-06-05,Tamil Nadu,Chennai,3,24
+2023-06-06,Karnataka,Chennai,5,29
+2023-06-06,Karnataka,Chennai,7,11
+2023-06-07,Karnataka,Bangalore,1,6
+2023-06-07,Maharashtra,Mumbai,3,28
+2023-06-07,Gujarat,Lucknow,2,11
+2023-06-08,Uttar Pradesh,Ahmedabad,6,30
+2023-06-08,Karnataka,Lucknow,2,23
+2023-06-08,Karnataka,Ahmedabad,3,23
+2023-06-09,Karnataka,Chennai,4,10
+2023-06-09,Gujarat,Lucknow,9,16
+2023-06-09,Karnataka,Mumbai,1,13
+2023-06-10,Uttar Pradesh,Mumbai,9,24
+2023-06-10,Gujarat,Bangalore,3,17
+2023-06-11,Gujarat,Bangalore,9,25
+2023-06-11,Maharashtra,Lucknow,6,30
+2023-06-11,Uttar Pradesh,Lucknow,4,15
+2023-06-12,Karnataka,Bangalore,10,11
+2023-06-12,Maharashtra,Lucknow,4,5
+2023-06-12,Maharashtra,Mumbai,6,8
+2023-06-13,Maharashtra,Bangalore,7,10
+2023-06-13,Gujarat,Chennai,5,29
+2023-06-13,Maharashtra,Lucknow,8,8
+2023-06-14,Karnataka,Chennai,1,28
+2023-06-14,Tamil Nadu,Ahmedabad,5,12
+2023-06-15,Tamil Nadu,Chennai,4,5
+2023-06-15,Tamil Nadu,Chennai,8,15
+2023-06-15,Gujarat,Mumbai,6,18
+2023-06-16,Uttar Pradesh,Lucknow,6,11
+2023-06-16,Tamil Nadu,Ahmedabad,9,12
+2023-06-16,Uttar Pradesh,Lucknow,1,10
+2023-06-17,Tamil Nadu,Chennai,8,8
+2023-06-17,Gujarat,Lucknow,2,20
+2023-06-17,Gujarat,Ahmedabad,9,17
+2023-06-18,Karnataka,Chennai,2,7
+2023-06-18,Gujarat,Mumbai,1,8
+2023-06-19,Maharashtra,Bangalore,6,8
+2023-06-19,Gujarat,Mumbai,5,28
+2023-06-19,Tamil Nadu,Bangalore,2,23
+2023-06-20,Maharashtra,Bangalore,2,5
+2023-06-20,Maharashtra,Chennai,6,16
+2023-06-20,Gujarat,Ahmedabad,9,12
+2023-06-21,Karnataka,Ahmedabad,4,13
+2023-06-21,Maharashtra,Chennai,3,26
+2023-06-21,Uttar Pradesh,Lucknow,3,20
+2023-06-22,Gujarat,Ahmedabad,1,12
+2023-06-22,Uttar Pradesh,Lucknow,4,5
+2023-06-23,Karnataka,Ahmedabad,10,28
+2023-06-23,Tamil Nadu,Lucknow,4,30
+2023-06-23,Uttar Pradesh,Chennai,8,6
+2023-06-24,Karnataka,Chennai,6,21
+2023-06-24,Maharashtra,Lucknow,3,10
+2023-06-24,Gujarat,Ahmedabad,5,9
+2023-06-25,Tamil Nadu,Bangalore,7,29
+2023-06-25,Uttar Pradesh,Bangalore,3,25
+2023-06-25,Maharashtra,Chennai,8,8
+2023-06-26,Uttar Pradesh,Bangalore,8,28
+2023-06-26,Karnataka,Ahmedabad,5,28
+2023-06-27,Karnataka,Chennai,7,20
+2023-06-27,Maharashtra,Ahmedabad,2,10
+2023-06-27,Maharashtra,Ahmedabad,5,9
+2023-06-28,Maharashtra,Chennai,4,23
+2023-06-28,Tamil Nadu,Lucknow,3,13
+2023-06-28,Uttar Pradesh,Mumbai,2,21
+2023-06-29,Maharashtra,Lucknow,5,26
+2023-06-29,Tamil Nadu,Lucknow,2,22
+2023-06-29,Uttar Pradesh,Mumbai,7,8
+2023-06-30,Karnataka,Mumbai,4,28
+2023-06-30,Karnataka,Lucknow,2,23
+2023-07-01,Gujarat,Mumbai,9,26
+2023-07-01,Karnataka,Lucknow,1,17
+2023-07-01,Tamil Nadu,Mumbai,5,5
+2023-07-02,Uttar Pradesh,Chennai,2,18
+2023-07-02,Karnataka,Ahmedabad,10,14
+2023-07-02,Tamil Nadu,Bangalore,9,21
+2023-07-03,Tamil Nadu,Lucknow,5,25
+2023-07-03,Uttar Pradesh,Bangalore,4,15
+2023-07-04,Maharashtra,Mumbai,5,12
+2023-07-04,Karnataka,Lucknow,5,23
+2023-07-04,Karnataka,Lucknow,1,14
+2023-07-05,Tamil Nadu,Mumbai,1,18
+2023-07-05,Tamil Nadu,Ahmedabad,10,6
+2023-07-05,Maharashtra,Chennai,1,5
+2023-07-06,Karnataka,Lucknow,8,5
+2023-07-06,Maharashtra,Mumbai,5,30
+2023-07-06,Gujarat,Ahmedabad,9,19
+2023-07-07,Tamil Nadu,Lucknow,8,12
+2023-07-07,Karnataka,Ahmedabad,7,27
+2023-07-08,Uttar Pradesh,Mumbai,10,9
+2023-07-08,Karnataka,Mumbai,5,10
+2023-07-08,Karnataka,Mumbai,7,5
+2023-07-09,Tamil Nadu,Chennai,1,14
+2023-07-09,Gujarat,Mumbai,3,14
+2023-07-09,Gujarat,Mumbai,8,18
+2023-07-10,Karnataka,Chennai,2,5
+2023-07-10,Maharashtra,Bangalore,2,5
+2023-07-10,Maharashtra,Bangalore,1,18
+2023-07-11,Tamil Nadu,Ahmedabad,4,18
+2023-07-11,Uttar Pradesh,Lucknow,2,29
+2023-07-12,Uttar Pradesh,Chennai,4,26
+2023-07-12,Karnataka,Lucknow,7,24
+2023-07-12,Uttar Pradesh,Mumbai,9,29
+2023-07-13,Karnataka,Ahmedabad,6,19
+2023-07-13,Gujarat,Mumbai,10,17
+2023-07-13,Gujarat,Ahmedabad,3,9
+2023-07-14,Tamil Nadu,Ahmedabad,2,9
+2023-07-14,Tamil Nadu,Bangalore,2,16
+2023-07-14,Karnataka,Chennai,2,16
+2023-07-15,Maharashtra,Ahmedabad,5,25
+2023-07-15,Uttar Pradesh,Lucknow,2,22
+2023-07-16,Karnataka,Ahmedabad,1,19
+2023-07-16,Uttar Pradesh,Mumbai,8,14
+2023-07-16,Gujarat,Lucknow,6,13
+2023-07-17,Maharashtra,Bangalore,3,14
+2023-07-17,Gujarat,Mumbai,3,9
+2023-07-17,Uttar Pradesh,Mumbai,7,23
+2023-07-18,Uttar Pradesh,Lucknow,3,11
+2023-07-18,Maharashtra,Mumbai,2,12
+2023-07-18,Karnataka,Ahmedabad,6,17
+2023-07-19,Maharashtra,Chennai,10,8
+2023-07-19,Karnataka,Lucknow,7,24
+2023-07-20,Gujarat,Lucknow,3,29
+2023-07-20,Gujarat,Chennai,6,10
+2023-07-20,Uttar Pradesh,Ahmedabad,1,18
+2023-07-21,Karnataka,Chennai,3,6
+2023-07-21,Gujarat,Lucknow,3,30
+2023-07-21,Karnataka,Mumbai,3,9
+2023-07-22,Uttar Pradesh,Chennai,9,11
+2023-07-22,Tamil Nadu,Chennai,7,28
+2023-07-22,Maharashtra,Bangalore,7,17
+2023-07-23,Tamil Nadu,Mumbai,6,13
+2023-07-23,Karnataka,Mumbai,3,5
+2023-07-24,Gujarat,Ahmedabad,2,10
+2023-07-24,Tamil Nadu,Bangalore,3,26
+2023-07-24,Maharashtra,Bangalore,8,22
+2023-07-25,Gujarat,Bangalore,6,5
+2023-07-25,Uttar Pradesh,Mumbai,3,22
+2023-07-25,Maharashtra,Mumbai,3,25
+2023-07-26,Tamil Nadu,Lucknow,6,23
+2023-07-26,Maharashtra,Ahmedabad,5,26
+2023-07-26,Uttar Pradesh,Bangalore,10,25
+2023-07-27,Karnataka,Mumbai,3,17
+2023-07-27,Tamil Nadu,Mumbai,3,5
+2023-07-28,Karnataka,Mumbai,9,23
+2023-07-28,Maharashtra,Lucknow,2,10
+2023-07-28,Maharashtra,Chennai,1,11
+2023-07-29,Maharashtra,Mumbai,1,6
+2023-07-29,Tamil Nadu,Chennai,7,8
+2023-07-29,Maharashtra,Ahmedabad,2,22
+2023-07-30,Maharashtra,Bangalore,6,24
+2023-07-30,Gujarat,Chennai,8,25
+2023-07-30,Uttar Pradesh,Mumbai,10,13
+2023-07-31,Karnataka,Lucknow,7,12
+2023-07-31,Karnataka,Ahmedabad,8,7
+2023-08-01,Maharashtra,Ahmedabad,1,18
+2023-08-01,Uttar Pradesh,Lucknow,2,26
+2023-08-01,Uttar Pradesh,Bangalore,5,28
+2023-08-02,Maharashtra,Bangalore,6,24
+2023-08-02,Tamil Nadu,Bangalore,4,12
+2023-08-02,Gujarat,Mumbai,9,10
+2023-08-03,Gujarat,Ahmedabad,6,26
+2023-08-03,Gujarat,Chennai,3,27
+2023-08-03,Maharashtra,Chennai,7,6
+2023-08-04,Uttar Pradesh,Bangalore,6,12
+2023-08-04,Tamil Nadu,Chennai,3,9
+2023-08-05,Gujarat,Lucknow,5,17
+2023-08-05,Uttar Pradesh,Mumbai,1,17
+2023-08-05,Uttar Pradesh,Lucknow,5,5
+2023-08-06,Uttar Pradesh,Chennai,5,6
+2023-08-06,Gujarat,Chennai,7,26
+2023-08-06,Karnataka,Bangalore,5,6
+2023-08-07,Tamil Nadu,Bangalore,7,6
+2023-08-07,Karnataka,Mumbai,2,7
+2023-08-07,Maharashtra,Lucknow,4,24
+2023-08-08,Karnataka,Chennai,4,13
+2023-08-08,Karnataka,Bangalore,10,9
+2023-08-09,Maharashtra,Lucknow,5,23
+2023-08-09,Maharashtra,Chennai,9,15
+2023-08-09,Maharashtra,Chennai,4,22
+2023-08-10,Karnataka,Bangalore,10,7
+2023-08-10,Tamil Nadu,Chennai,10,25
+2023-08-10,Karnataka,Ahmedabad,10,13
+2023-08-11,Gujarat,Mumbai,10,23
+2023-08-11,Tamil Nadu,Bangalore,6,16
+2023-08-11,Maharashtra,Chennai,8,7
+2023-08-12,Uttar Pradesh,Mumbai,8,7
+2023-08-12,Tamil Nadu,Mumbai,10,13
+2023-08-13,Maharashtra,Chennai,1,18
+2023-08-13,Gujarat,Chennai,3,12
+2023-08-13,Maharashtra,Mumbai,7,16
+2023-08-14,Karnataka,Mumbai,4,13
+2023-08-14,Uttar Pradesh,Ahmedabad,5,13
+2023-08-14,Maharashtra,Ahmedabad,10,22
+2023-08-15,Karnataka,Bangalore,5,7
+2023-08-15,Maharashtra,Chennai,2,16
+2023-08-15,Karnataka,Lucknow,3,11
+2023-08-16,Maharashtra,Mumbai,6,8
+2023-08-16,Tamil Nadu,Lucknow,5,27
+2023-08-17,Karnataka,Lucknow,2,5
+2023-08-17,Gujarat,Ahmedabad,6,14
+2023-08-17,Uttar Pradesh,Ahmedabad,8,28
+2023-08-18,Uttar Pradesh,Chennai,10,25
+2023-08-18,Tamil Nadu,Bangalore,10,8
+2023-08-18,Karnataka,Ahmedabad,5,11
+2023-08-19,Tamil Nadu,Bangalore,10,16
+2023-08-19,Karnataka,Bangalore,6,13
+2023-08-20,Tamil Nadu,Lucknow,2,8
+2023-08-20,Maharashtra,Lucknow,1,30
+2023-08-20,Maharashtra,Mumbai,5,12
+2023-08-21,Tamil Nadu,Chennai,6,26
+2023-08-21,Uttar Pradesh,Ahmedabad,6,5
+2023-08-21,Maharashtra,Mumbai,7,15
+2023-08-22,Tamil Nadu,Ahmedabad,8,25
+2023-08-22,Gujarat,Bangalore,3,11
+2023-08-22,Uttar Pradesh,Mumbai,9,17
+2023-08-23,Maharashtra,Ahmedabad,8,28
+2023-08-23,Gujarat,Chennai,3,7
+2023-08-24,Tamil Nadu,Chennai,3,21
+2023-08-24,Gujarat,Lucknow,1,22
+2023-08-24,Uttar Pradesh,Bangalore,10,20
+2023-08-25,Gujarat,Ahmedabad,6,7
+2023-08-25,Tamil Nadu,Bangalore,1,19
+2023-08-25,Tamil Nadu,Bangalore,7,27
+2023-08-26,Maharashtra,Chennai,1,25
+2023-08-26,Uttar Pradesh,Chennai,6,14
+2023-08-26,Gujarat,Chennai,6,15
+2023-08-27,Uttar Pradesh,Lucknow,1,28
+2023-08-27,Gujarat,Mumbai,7,27
+2023-08-28,Maharashtra,Mumbai,4,18
+2023-08-28,Uttar Pradesh,Chennai,10,9
+2023-08-28,Karnataka,Lucknow,8,27
+2023-08-29,Karnataka,Lucknow,5,15
+2023-08-29,Maharashtra,Lucknow,9,22
+2023-08-29,Maharashtra,Chennai,5,8
+2023-08-30,Maharashtra,Lucknow,8,15
+2023-08-30,Gujarat,Chennai,4,15
+2023-08-30,Tamil Nadu,Bangalore,10,25
+2023-08-31,Uttar Pradesh,Chennai,2,24
+2023-08-31,Karnataka,Lucknow,7,28
+2023-09-01,Uttar Pradesh,Chennai,5,16
+2023-09-01,Maharashtra,Chennai,10,28
+2023-09-01,Tamil Nadu,Bangalore,3,18
+2023-09-02,Uttar Pradesh,Bangalore,1,19
+2023-09-02,Gujarat,Lucknow,5,28
+2023-09-02,Tamil Nadu,Ahmedabad,6,22
+2023-09-03,Karnataka,Lucknow,5,29
+2023-09-03,Tamil Nadu,Chennai,4,7
+2023-09-03,Gujarat,Mumbai,1,27
+2023-09-04,Uttar Pradesh,Bangalore,7,15
+2023-09-04,Maharashtra,Ahmedabad,5,26
+2023-09-05,Karnataka,Bangalore,2,11
+2023-09-05,Tamil Nadu,Lucknow,9,24
+2023-09-05,Uttar Pradesh,Chennai,5,15
+2023-09-06,Gujarat,Chennai,2,25
+2023-09-06,Karnataka,Bangalore,10,11
+2023-09-06,Gujarat,Mumbai,5,5
+2023-09-07,Maharashtra,Mumbai,1,15
+2023-09-07,Gujarat,Mumbai,6,24
+2023-09-07,Uttar Pradesh,Mumbai,8,20
+2023-09-08,Gujarat,Lucknow,9,19
+2023-09-08,Maharashtra,Chennai,1,14
+2023-09-09,Tamil Nadu,Bangalore,9,18
+2023-09-09,Gujarat,Lucknow,8,21
+2023-09-09,Karnataka,Lucknow,7,20
+2023-09-10,Maharashtra,Bangalore,7,20
+2023-09-10,Gujarat,Mumbai,5,26
+2023-09-10,Karnataka,Ahmedabad,9,24
+2023-09-11,Tamil Nadu,Ahmedabad,3,23
+2023-09-11,Maharashtra,Lucknow,2,29
+2023-09-11,Karnataka,Chennai,3,14
+2023-09-12,Maharashtra,Mumbai,10,13
+2023-09-12,Karnataka,Bangalore,4,5
+2023-09-13,Gujarat,Mumbai,4,27
+2023-09-13,Maharashtra,Ahmedabad,10,16
+2023-09-13,Uttar Pradesh,Chennai,5,14
+2023-09-14,Uttar Pradesh,Lucknow,1,6
+2023-09-14,Maharashtra,Lucknow,1,21
+2023-09-14,Karnataka,Mumbai,6,16
+2023-09-15,Karnataka,Bangalore,10,11
+2023-09-15,Gujarat,Mumbai,5,26
+2023-09-15,Tamil Nadu,Lucknow,4,12
+2023-09-16,Maharashtra,Chennai,1,5
+2023-09-16,Maharashtra,Chennai,6,12
+2023-09-17,Uttar Pradesh,Lucknow,8,28
+2023-09-17,Gujarat,Bangalore,2,13
+2023-09-17,Uttar Pradesh,Mumbai,7,23
+2023-09-18,Tamil Nadu,Ahmedabad,7,15
+2023-09-18,Karnataka,Lucknow,3,7
+2023-09-18,Karnataka,Ahmedabad,10,11
+2023-09-19,Uttar Pradesh,Bangalore,9,11
+2023-09-19,Gujarat,Ahmedabad,2,5
+2023-09-19,Tamil Nadu,Ahmedabad,1,7
+2023-09-20,Maharashtra,Bangalore,3,13
+2023-09-20,Uttar Pradesh,Chennai,4,30
+2023-09-21,Maharashtra,Mumbai,6,28
+2023-09-21,Karnataka,Bangalore,6,14
+2023-09-21,Maharashtra,Ahmedabad,10,21
+2023-09-22,Tamil Nadu,Mumbai,10,5
+2023-09-22,Maharashtra,Mumbai,3,5
+2023-09-22,Tamil Nadu,Bangalore,1,25
+2023-09-23,Karnataka,Chennai,1,22
+2023-09-23,Karnataka,Chennai,1,7
+2023-09-23,Tamil Nadu,Lucknow,6,29
+2023-09-24,Tamil Nadu,Mumbai,5,12
+2023-09-24,Tamil Nadu,Lucknow,2,18
+2023-09-25,Karnataka,Chennai,5,29
+2023-09-25,Gujarat,Chennai,3,28
+2023-09-25,Gujarat,Ahmedabad,7,26
+2023-09-26,Gujarat,Bangalore,4,24
+2023-09-26,Tamil Nadu,Bangalore,1,8
+2023-09-26,Gujarat,Chennai,4,11
+2023-09-27,Maharashtra,Bangalore,7,22
+2023-09-27,Maharashtra,Lucknow,1,15
+2023-09-27,Maharashtra,Bangalore,2,18
+2023-09-28,Uttar Pradesh,Chennai,9,15
+2023-09-28,Uttar Pradesh,Mumbai,1,29
+2023-09-29,Gujarat,Ahmedabad,4,10
+2023-09-29,Maharashtra,Bangalore,9,6
+2023-09-29,Uttar Pradesh,Lucknow,10,25
+2023-09-30,Gujarat,Bangalore,2,14
+2023-09-30,Maharashtra,Lucknow,8,12
+2023-09-30,Uttar Pradesh,Chennai,2,13
+2023-10-01,Gujarat,Ahmedabad,3,29
+2023-10-01,Uttar Pradesh,Mumbai,10,15
+2023-10-02,Maharashtra,Mumbai,6,28
+2023-10-02,Tamil Nadu,Ahmedabad,6,11
+2023-10-02,Tamil Nadu,Mumbai,6,11
+2023-10-03,Gujarat,Bangalore,2,6
+2023-10-03,Gujarat,Ahmedabad,5,13
+2023-10-03,Karnataka,Mumbai,9,27
+2023-10-04,Uttar Pradesh,Ahmedabad,10,26
+2023-10-04,Karnataka,Mumbai,4,13
+2023-10-04,Uttar Pradesh,Chennai,6,18
+2023-10-05,Gujarat,Chennai,5,24
+2023-10-05,Uttar Pradesh,Lucknow,3,8
+2023-10-06,Maharashtra,Bangalore,3,9
+2023-10-06,Gujarat,Lucknow,7,16
+2023-10-06,Karnataka,Lucknow,3,24
+2023-10-07,Maharashtra,Chennai,2,29
+2023-10-07,Maharashtra,Lucknow,8,18
+2023-10-07,Maharashtra,Ahmedabad,1,6
+2023-10-08,Maharashtra,Chennai,10,9
+2023-10-08,Gujarat,Bangalore,3,27
+2023-10-08,Uttar Pradesh,Bangalore,7,15
+2023-10-09,Uttar Pradesh,Chennai,10,30
+2023-10-09,Gujarat,Lucknow,9,21
+2023-10-10,Karnataka,Ahmedabad,6,29
+2023-10-10,Tamil Nadu,Lucknow,6,7
+2023-10-10,Tamil Nadu,Chennai,4,14
+2023-10-11,Gujarat,Chennai,3,25
+2023-10-11,Maharashtra,Bangalore,5,9
+2023-10-11,Karnataka,Lucknow,9,5
+2023-10-12,Karnataka,Bangalore,10,5
+2023-10-12,Uttar Pradesh,Bangalore,9,7
+2023-10-12,Uttar Pradesh,Mumbai,9,27
+2023-10-13,Maharashtra,Chennai,7,23
+2023-10-13,Karnataka,Chennai,3,26
+2023-10-14,Gujarat,Bangalore,10,15
+2023-10-14,Karnataka,Chennai,9,14
+2023-10-14,Karnataka,Bangalore,5,29
+2023-10-15,Maharashtra,Chennai,8,12
+2023-10-15,Gujarat,Mumbai,10,7
+2023-10-15,Maharashtra,Lucknow,2,11
+2023-10-16,Gujarat,Lucknow,5,20
+2023-10-16,Karnataka,Bangalore,2,20
+2023-10-16,Uttar Pradesh,Chennai,5,10
+2023-10-17,Karnataka,Ahmedabad,6,30
+2023-10-17,Uttar Pradesh,Chennai,9,9
+2023-10-18,Maharashtra,Mumbai,10,22
+2023-10-18,Uttar Pradesh,Ahmedabad,10,5
+2023-10-18,Gujarat,Chennai,4,19
+2023-10-19,Tamil Nadu,Mumbai,1,13
+2023-10-19,Tamil Nadu,Mumbai,9,27
+2023-10-19,Karnataka,Bangalore,7,30
+2023-10-20,Maharashtra,Chennai,2,22
+2023-10-20,Karnataka,Bangalore,7,5
+2023-10-20,Maharashtra,Bangalore,9,10
+2023-10-21,Maharashtra,Lucknow,2,30
+2023-10-21,Karnataka,Lucknow,9,14
+2023-10-22,Gujarat,Chennai,6,27
+2023-10-22,Tamil Nadu,Bangalore,7,25
+2023-10-22,Uttar Pradesh,Bangalore,1,20
+2023-10-23,Maharashtra,Lucknow,1,19
+2023-10-23,Tamil Nadu,Bangalore,8,17
+2023-10-23,Karnataka,Mumbai,2,5
+2023-10-24,Maharashtra,Bangalore,2,11
+2023-10-24,Tamil Nadu,Ahmedabad,1,14
+2023-10-24,Uttar Pradesh,Bangalore,1,28
+2023-10-25,Uttar Pradesh,Bangalore,3,19
+2023-10-25,Maharashtra,Bangalore,9,16
+2023-10-26,Tamil Nadu,Ahmedabad,5,10
+2023-10-26,Maharashtra,Lucknow,7,5
+2023-10-26,Uttar Pradesh,Lucknow,5,27
+2023-10-27,Uttar Pradesh,Bangalore,10,14
+2023-10-27,Maharashtra,Ahmedabad,6,22
+2023-10-27,Uttar Pradesh,Mumbai,5,21
+2023-10-28,Maharashtra,Bangalore,2,5
+2023-10-28,Gujarat,Mumbai,1,10
+2023-10-28,Gujarat,Mumbai,9,14
+2023-10-29,Tamil Nadu,Lucknow,1,5
+2023-10-29,Uttar Pradesh,Chennai,6,5
+2023-10-30,Gujarat,Bangalore,3,14
+2023-10-30,Gujarat,Lucknow,3,23
+2023-10-30,Gujarat,Bangalore,10,29
+2023-10-31,Karnataka,Mumbai,4,17
+2023-10-31,Gujarat,Mumbai,3,30
+2023-10-31,Tamil Nadu,Bangalore,10,11
+2023-11-01,Maharashtra,Ahmedabad,10,11
+2023-11-01,Uttar Pradesh,Lucknow,10,30
+2023-11-01,Uttar Pradesh,Mumbai,2,16
+2023-11-02,Karnataka,Chennai,8,11
+2023-11-02,Tamil Nadu,Bangalore,1,28
+2023-11-03,Tamil Nadu,Bangalore,1,27
+2023-11-03,Karnataka,Ahmedabad,2,13
+2023-11-03,Uttar Pradesh,Chennai,7,19
+2023-11-04,Tamil Nadu,Bangalore,1,27
+2023-11-04,Maharashtra,Ahmedabad,8,24
+2023-11-04,Karnataka,Chennai,9,5
+2023-11-05,Gujarat,Ahmedabad,5,30
+2023-11-05,Maharashtra,Ahmedabad,2,10
+2023-11-05,Uttar Pradesh,Chennai,1,15
+2023-11-06,Uttar Pradesh,Ahmedabad,6,6
+2023-11-06,Gujarat,Ahmedabad,2,11
+2023-11-07,Maharashtra,Chennai,5,29
+2023-11-07,Uttar Pradesh,Chennai,7,28
+2023-11-07,Gujarat,Bangalore,5,26
+2023-11-08,Tamil Nadu,Mumbai,8,27
+2023-11-08,Gujarat,Lucknow,4,22
+2023-11-08,Karnataka,Ahmedabad,5,24
+2023-11-09,Gujarat,Mumbai,5,6
+2023-11-09,Tamil Nadu,Ahmedabad,2,20
+2023-11-09,Maharashtra,Chennai,4,17
+2023-11-10,Gujarat,Ahmedabad,8,21
+2023-11-10,Uttar Pradesh,Lucknow,1,18
+2023-11-11,Uttar Pradesh,Mumbai,5,11
+2023-11-11,Maharashtra,Mumbai,6,24
+2023-11-11,Karnataka,Bangalore,8,26
+2023-11-12,Gujarat,Chennai,6,20
+2023-11-12,Tamil Nadu,Chennai,2,29
+2023-11-12,Gujarat,Chennai,4,28
+2023-11-13,Maharashtra,Bangalore,7,14
+2023-11-13,Uttar Pradesh,Lucknow,1,5
+2023-11-13,Tamil Nadu,Lucknow,10,29
+2023-11-14,Maharashtra,Chennai,5,19
+2023-11-14,Uttar Pradesh,Chennai,10,12
+2023-11-15,Tamil Nadu,Lucknow,9,10
+2023-11-15,Karnataka,Bangalore,6,13
+2023-11-15,Karnataka,Ahmedabad,5,6
+2023-11-16,Tamil Nadu,Lucknow,10,20
+2023-11-16,Gujarat,Ahmedabad,1,25
+2023-11-16,Karnataka,Bangalore,8,24
+2023-11-17,Maharashtra,Chennai,9,21
+2023-11-17,Tamil Nadu,Mumbai,3,29
+2023-11-18,Gujarat,Bangalore,5,25
+2023-11-18,Tamil Nadu,Lucknow,10,18
+2023-11-18,Maharashtra,Bangalore,10,27
+2023-11-19,Uttar Pradesh,Ahmedabad,3,18
+2023-11-19,Maharashtra,Chennai,2,12
+2023-11-19,Tamil Nadu,Ahmedabad,7,15
+2023-11-20,Uttar Pradesh,Chennai,10,5
+2023-11-20,Tamil Nadu,Lucknow,9,17
+2023-11-20,Tamil Nadu,Chennai,2,21
+2023-11-21,Tamil Nadu,Lucknow,1,16
+2023-11-21,Uttar Pradesh,Bangalore,6,29
+2023-11-22,Karnataka,Chennai,2,20
+2023-11-22,Tamil Nadu,Bangalore,8,8
+2023-11-22,Maharashtra,Mumbai,1,21
+2023-11-23,Karnataka,Mumbai,3,10
+2023-11-23,Gujarat,Bangalore,3,19
+2023-11-23,Tamil Nadu,Mumbai,1,6
+2023-11-24,Gujarat,Mumbai,9,12
+2023-11-24,Uttar Pradesh,Mumbai,2,20
+2023-11-24,Gujarat,Mumbai,2,19
+2023-11-25,Karnataka,Lucknow,6,29
+2023-11-25,Uttar Pradesh,Lucknow,5,26
+2023-11-26,Gujarat,Ahmedabad,10,14
+2023-11-26,Karnataka,Mumbai,6,8
+2023-11-26,Maharashtra,Lucknow,5,7
+2023-11-27,Karnataka,Bangalore,7,28
+2023-11-27,Gujarat,Chennai,6,6
+2023-11-27,Gujarat,Ahmedabad,8,14
+2023-11-28,Gujarat,Ahmedabad,10,18
+2023-11-28,Gujarat,Bangalore,6,19
+2023-11-28,Karnataka,Bangalore,10,21
+2023-11-29,Karnataka,Lucknow,6,14
+2023-11-29,Karnataka,Chennai,9,25
+2023-11-30,Tamil Nadu,Chennai,5,9
+2023-11-30,Karnataka,Ahmedabad,6,12
+2023-11-30,Gujarat,Ahmedabad,10,20
+2023-12-01,Tamil Nadu,Bangalore,5,23
+2023-12-01,Maharashtra,Bangalore,2,23
+2023-12-01,Karnataka,Ahmedabad,9,29
+2023-12-02,Uttar Pradesh,Ahmedabad,1,15
+2023-12-02,Gujarat,Mumbai,10,9
+2023-12-02,Karnataka,Ahmedabad,9,5
+2023-12-03,Maharashtra,Lucknow,6,8
+2023-12-03,Uttar Pradesh,Chennai,9,15
+2023-12-04,Maharashtra,Ahmedabad,4,19
+2023-12-04,Uttar Pradesh,Lucknow,5,7
+2023-12-04,Gujarat,Lucknow,8,20
+2023-12-05,Gujarat,Mumbai,6,22
+2023-12-05,Karnataka,Mumbai,5,5
+2023-12-05,Tamil Nadu,Lucknow,7,10
+2023-12-06,Karnataka,Lucknow,7,23
+2023-12-06,Gujarat,Ahmedabad,8,24
+2023-12-06,Tamil Nadu,Ahmedabad,8,19
+2023-12-07,Uttar Pradesh,Mumbai,4,6
+2023-12-07,Maharashtra,Chennai,10,27
+2023-12-08,Uttar Pradesh,Lucknow,2,14
+2023-12-08,Uttar Pradesh,Chennai,2,23
+2023-12-08,Tamil Nadu,Chennai,5,5
+2023-12-09,Tamil Nadu,Mumbai,1,14
+2023-12-09,Gujarat,Mumbai,7,18
+2023-12-09,Gujarat,Lucknow,9,5
+2023-12-10,Gujarat,Lucknow,3,5
+2023-12-10,Gujarat,Chennai,2,17
+2023-12-10,Karnataka,Bangalore,5,27
+2023-12-11,Gujarat,Bangalore,8,20
+2023-12-11,Gujarat,Bangalore,7,11
+2023-12-12,Tamil Nadu,Chennai,6,8
+2023-12-12,Gujarat,Chennai,6,9
+2023-12-12,Karnataka,Lucknow,3,24
+2023-12-13,Gujarat,Chennai,9,19
+2023-12-13,Gujarat,Mumbai,10,26
+2023-12-13,Tamil Nadu,Bangalore,9,12
+2023-12-14,Tamil Nadu,Ahmedabad,9,10
+2023-12-14,Karnataka,Bangalore,10,18
+2023-12-14,Gujarat,Mumbai,3,18
+2023-12-15,Karnataka,Ahmedabad,3,17
+2023-12-15,Tamil Nadu,Lucknow,6,15
+2023-12-16,Maharashtra,Lucknow,3,28
+2023-12-16,Maharashtra,Bangalore,7,28
+2023-12-16,Uttar Pradesh,Chennai,10,27
+2023-12-17,Karnataka,Lucknow,2,22
+2023-12-17,Tamil Nadu,Ahmedabad,9,24
+2023-12-17,Uttar Pradesh,Chennai,1,19
+2023-12-18,Karnataka,Bangalore,10,10
+2023-12-18,Maharashtra,Ahmedabad,5,13
+2023-12-18,Maharashtra,Bangalore,6,30
+2023-12-19,Uttar Pradesh,Lucknow,2,13
+2023-12-19,Tamil Nadu,Bangalore,9,10
+2023-12-20,Karnataka,Bangalore,5,23
+2023-12-20,Tamil Nadu,Lucknow,4,14
+2023-12-20,Karnataka,Mumbai,6,23
+2023-12-21,Uttar Pradesh,Bangalore,3,27
+2023-12-21,Gujarat,Bangalore,8,9
+2023-12-21,Karnataka,Chennai,8,7
+2023-12-22,Uttar Pradesh,Chennai,3,20
+2023-12-22,Karnataka,Bangalore,6,12
+2023-12-22,Tamil Nadu,Bangalore,1,12
+2023-12-23,Tamil Nadu,Ahmedabad,8,15
+2023-12-23,Maharashtra,Ahmedabad,1,20
+2023-12-24,Gujarat,Chennai,10,21
+2023-12-24,Maharashtra,Lucknow,9,6
+2023-12-24,Uttar Pradesh,Lucknow,2,18
+2023-12-25,Uttar Pradesh,Lucknow,3,29
+2023-12-25,Maharashtra,Chennai,3,17
+2023-12-25,Gujarat,Ahmedabad,7,24
+2023-12-26,Karnataka,Mumbai,2,14
+2023-12-26,Uttar Pradesh,Mumbai,5,28
+2023-12-26,Maharashtra,Bangalore,3,19
+2023-12-27,Uttar Pradesh,Bangalore,3,15
+2023-12-27,Karnataka,Mumbai,6,10
+2023-12-28,Uttar Pradesh,Bangalore,5,19
+2023-12-28,Gujarat,Lucknow,6,29
+2023-12-28,Uttar Pradesh,Chennai,3,10
+2023-12-29,Karnataka,Ahmedabad,9,29
+2023-12-29,Karnataka,Lucknow,3,8
+2023-12-29,Gujarat,Lucknow,6,7
+2023-12-30,Uttar Pradesh,Lucknow,10,8
+2023-12-30,Tamil Nadu,Chennai,1,28
+2023-12-31,Tamil Nadu,Lucknow,4,28
